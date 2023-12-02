@@ -1,1 +1,2 @@
 sampl1 test
+sample2 test.
