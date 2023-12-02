@@ -1,16 +1,5 @@
-sampl1 test
-sample2 test.
-module DLatch (
-  input D,
-  input enable,
-  input reset,
-  output reg Q
-);
-
-always @(posedge enable or posedge reset)
-  if (reset)
-    Q <= 1'b0;
-  else if (enable)
-    Q <= D;
-
-endmodule
+======tesey====
+anwer
+=============
+anser2
+========
